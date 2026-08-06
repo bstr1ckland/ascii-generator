@@ -1,6 +1,9 @@
 [package]
-name = "img-2-ascii"
+name = "ascii-generator"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+cursor = "2.3.0"
+image = "0.25.10"
+indoc = "2.0.7"
