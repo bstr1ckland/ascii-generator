@@ -7,7 +7,7 @@ description = "An ascii image generator"
 repository = "https://github.com/bstr1ckland/ascii-generator"
 readme = "README.md"
 keywords = ["ascii", "ascii-characters", "ascii-images", "first-crate"]
-categories = ["ascii-images", "ascii-generation"]
+categories = ["ascii"]
 
 [dependencies]
 image = "0.25.10"
