@@ -47,4 +47,6 @@ cargo run images/homer.png
                   :%%%%%%%%%%%%%%%%%%.
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+## License
+ 
+MIT — see [LICENSE](LICENSE).
